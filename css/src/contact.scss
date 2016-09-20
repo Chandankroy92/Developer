@@ -1,0 +1,26 @@
+#contact{
+	text-align: center; 
+	position: absolute;
+    right: 6em;
+    padding: 3em;
+
+	.price-option {
+
+			/*border : 2px solid #C0C4C7;*/
+			border-radius: 10px 10px 0 0;
+			position : relative;
+	
+		h3{
+		 	background-color: #A18BCC;
+		 	color: #FFF;
+		 	margin :0;
+		 	padding : 0.3em;
+		 	text-transform : uppercase;
+		 	border-radius: 10px 10px 10px 10px;
+	 	}
+	}
+	.row{
+		margin-left: -14px;
+		margin-top: 2em;
+	}
+}
